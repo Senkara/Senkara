@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Yiğit 👋
 
-<!--
-**Senkara/Senkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student from Turkey 🇹🇷
 
-Here are some ideas to get you started:
+I’m interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend Development
+- Computer Vision
+- Machine Learning
+
+## Tech Stack
+
+Java  
+Python  
+PyTorch  
+SQL  
+
+## Projects
+
+🔹 Waste Detection with Faster R-CNN  
+https://github.com/Senkara/fasterrcnn-waste-detection
+
+🔹 Planning Poker Application  
+https://github.com/Senkara/PlanningPoker
+
+🔹 Movie Dialogue Generation App  
+https://github.com/kerimkarakan/SE226_Project
