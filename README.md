@@ -24,5 +24,4 @@ https://github.com/Senkara/fasterrcnn-waste-detection
 https://github.com/Senkara/PlanningPoker
 
 🔹 RFID-SDK-MOCK-GEN2 Flow 
-
 https://github.com/Senkara/rfid-sdk-mock
