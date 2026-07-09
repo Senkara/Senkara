@@ -23,5 +23,5 @@ https://github.com/Senkara/fasterrcnn-waste-detection
 🔹 Planning Poker Application  
 https://github.com/Senkara/PlanningPoker
 
-🔹 Movie Dialogue Generation App  
-https://github.com/kerimkarakan/SE226_Project
+🔹 RFID-SDK-MOCK-GEN2 flow 
+https://github.com/Senkara/rfid-sdk-mock
