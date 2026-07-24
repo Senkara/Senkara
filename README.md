@@ -23,5 +23,5 @@ https://github.com/Senkara/fasterrcnn-waste-detection
 🔹 Planning Poker Application  
 https://github.com/Senkara/PlanningPoker
 
-🔹 RFID-SDK-MOCK-GEN2 Flow 
-https://github.com/Senkara/rfid-sdk-mock
+🔹 RFID-SDK-BLE-GEN2 Flow 
+https://github.com/Senkara/rfid-ble-control-panel
